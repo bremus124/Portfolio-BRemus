@@ -15,7 +15,7 @@ export default function Resume() {
             </li>
           </ul>
           <a
-            href="https://github.com/fondofhats/react-portfolio/raw/main/docs/MichaelGiddingsResume.docx"
+            href="https://github.com/bremus124/Portfolio-BRemus/blob/main/my-portfolio/Brittany.RemusUpdated2022.docx"
             class="link"
           >
             Download Resume

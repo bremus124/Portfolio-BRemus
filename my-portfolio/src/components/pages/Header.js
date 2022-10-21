@@ -1,19 +1,31 @@
-import React from 'react';
-// Here we are importing a CSS file as a dependency
-import '../styles/Header.css';
-import NavTabs from '../NavTabs';
-import About from '../pages/About';
-import Contact from '../pages/Contact';
-import Portfolio from '../pages/Portfolio';
-import Resume from '../pages/Resume';
+import React, { Component } from "react";
+import { Route, Redirect, HashRouter } from "react-router-dom";
+import NavTabs from "../NavTabs";
+import About from "../pages/About";
+import Portfolio from "../pages/Portfolio";
+import Contact from "../pages/Contact";
+import Resume from "../pages/Resume";
 
 
-function Header() {
-  return (
-    <header className="header">
-      <h1>Home</h1>
-    </header>
-  );
+
+class Header extends Component {
+  render() {
+    return (
+      <HashRouter>
+        <header>
+          <NavTabs />
+        </header>
+
+        <div className="content">
+          <Route exact path="/" render={() => <Redirect to="/about" />} />
+          <Route path="/about" component={About} />
+          <Route path="/portfolio" component={Portfolio} />
+          <Route path="/contact" component={Contact}/>
+          <Route path="/resume" component={Resume}/>
+        </div>
+      </HashRouter>
+    );
+  }
 }
 
 export default Header;
