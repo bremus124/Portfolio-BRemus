@@ -12,7 +12,7 @@
         "name": "Company Database",
         "image": "https://raw.githubusercontent.com/bremus124/companydatabase/main/screenshot1.png",
         "github": "https://github.com/bremus124/companydatabase",
-        "video": "https://drive.google.com/file/d/1a17KMKoBBxUqMh-tTaG_oAsB8D-SEBz0/view",
+        "deploy": "https://drive.google.com/file/d/1a17KMKoBBxUqMh-tTaG_oAsB8D-SEBz0/view",
         "topics": "Node.js, Sequelize,Inquirer, MySQL"
     },
     {
@@ -27,7 +27,7 @@
     {
         "id": 4,
         "name": "Weather Dashboard",
-        "image": "https://github.com/bremus124/getweather/blob/main/screenshot.png",
+        "image": "https://raw.githubusercontent.com/bremus124/getweather/main/screenshot.png",
         "github": "https://github.com/bremus124/getweather",
         "deploy": "https://bremus124.github.io/getweather/",
         "topics": "Moment.js, javascript, jQuery, localStorage, API"
@@ -38,7 +38,7 @@
         "image": "https://raw.githubusercontent.com/bremus124/Scheduler/main/screenshot.png",
         "github": "https://github.com/bremus124/Scheduler",
         "deploy": "https://bremus124.github.io/Scheduler/",
-        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap, LocalStorage"
     },
     {
         "id": 6,
