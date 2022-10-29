@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Paw Date",
+        "image": "https://raw.githubusercontent.com/bremus124/green-dolphins-project/main/images/greenimg2.png",
+        "github": "https://github.com/bremus124/green-dolphins-project",
+        "deploy": "https://agile-reef-42699.herokuapp.com",
+        "topics": "Express-session, Express-handlebars, MySQL, Sequilize, Node, Dotenv, Bcrycpt, Model-view controller"
+    },
+    {
+        "id": 2,
+        "name": "Company Database",
+        "image": "https://raw.githubusercontent.com/bremus124/companydatabase/main/screenshot1.png",
+        "github": "https://github.com/bremus124/companydatabase",
+        "deploy": "https://drive.google.com/file/d/1a17KMKoBBxUqMh-tTaG_oAsB8D-SEBz0/view",
+        "topics": "Node.js, Sequelize,Inquirer, MySQL"
+    },
+    {
+        "id": 3,
+        "name": "Weather-Alerts App",
+        "image": "https://raw.githubusercontent.com/bremus124/Weather-Alerts-App/main/assets/images/_Users_petrdomnich_Desktop_flaunting-pony-scorers_index.html%20(1).png",
+        "github": "https://github.com/bremus124/Weather-Alerts-App",
+        "deploy": "https://bremus124.github.io/Weather-Alerts-App/",
+        "topics": "Js, CSS, API calls, Local-Storage"
+    },
+
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/bremus124/getweather/main/screenshot.png",
+        "github": "https://github.com/bremus124/getweather",
+        "deploy": "https://bremus124.github.io/getweather/",
+        "topics": "Moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Work Day Scheduler",
+        "image": "https://raw.githubusercontent.com/bremus124/Scheduler/main/screenshot.png",
+        "github": "https://github.com/bremus124/Scheduler",
+        "deploy": "https://bremus124.github.io/Scheduler/",
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap, LocalStorage"
+    },
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "image": "https://raw.githubusercontent.com/bremus124/mynotetaker/main/screenshot2.png",
+        "github": "https://github.com/bremus124/mynotetaker",
+        "deploy": "https://fast-woodland-66792.herokuapp.com/",
+        "topics": "HTML5, CSS, Javascript, Express.Js, JSON"
+    }
+]
