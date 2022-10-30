@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio-BRemus/static/css/main.1fa988dd.css",
-    "main.js": "/Portfolio-BRemus/static/js/main.9c60f32f.js",
+    "main.css": "/Portfolio-BRemus/static/css/main.7837e121.css",
+    "main.js": "/Portfolio-BRemus/static/js/main.f8b34e62.js",
     "static/js/787.128fc6e9.chunk.js": "/Portfolio-BRemus/static/js/787.128fc6e9.chunk.js",
     "index.html": "/Portfolio-BRemus/index.html",
-    "main.1fa988dd.css.map": "/Portfolio-BRemus/static/css/main.1fa988dd.css.map",
-    "main.9c60f32f.js.map": "/Portfolio-BRemus/static/js/main.9c60f32f.js.map",
+    "main.7837e121.css.map": "/Portfolio-BRemus/static/css/main.7837e121.css.map",
+    "main.f8b34e62.js.map": "/Portfolio-BRemus/static/js/main.f8b34e62.js.map",
     "787.128fc6e9.chunk.js.map": "/Portfolio-BRemus/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fa988dd.css",
-    "static/js/main.9c60f32f.js"
+    "static/css/main.7837e121.css",
+    "static/js/main.f8b34e62.js"
   ]
 }
