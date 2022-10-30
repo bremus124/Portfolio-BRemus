@@ -18,5 +18,5 @@
 ## Deployment
 
 - To deploy this project run:
-  - Website: https://bremus124.github.io/Scheduler/
+  - Website: https://bremus124.github.io/Portfolio-BRemus/#/about
   - Repository: https://github.com/bremus124/Portfolio-BRemus
