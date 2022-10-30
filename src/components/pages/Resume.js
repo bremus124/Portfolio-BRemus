@@ -10,7 +10,7 @@ export default function Resume() {
         <div class="mt-5">
           <h2 className="top-title">Click the link to view my resume 😃 </h2>
           <a
-            href="https://github.com/bremus124/Portfolio-BRemus/blob/main/my-portfolio/Brittany.RemusUpdated2022.docx"
+            href="https://github.com/bremus124/Portfolio-BRemus/blob/main/Brittany.RemusUpdated2022.docx?raw=true"
             class="link"
           >
             Download Resume

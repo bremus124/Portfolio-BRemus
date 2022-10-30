@@ -6,7 +6,7 @@ export default function About() {
     <h2 className='top-title'> Allow Me to Introduce Myself</h2>
     <hr></hr>
     <div className='imagep'>
-        <img className="mb-5" id="avatar" src= 'https://raw.githubusercontent.com/bremus124/Portfolio-BRemus/main/my-portfolio/images/selfie.JPG' alt="Brittany Remus" />
+        <img className="mb-5" id="avatar" src= 'https://raw.githubusercontent.com/bremus124/Portfolio-BRemus/main/images/selfie.JPG' alt="Brittany Remus" />
         <div className='auto'>
         <p>
         Hello and Welcome! My name is Brittany Remus. For the last 9 years
